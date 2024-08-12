@@ -1,6 +1,6 @@
 # hamster-kombat-clone
 
-# Building a Telegram App Similar to Hamster Combat and Natcoin
+# Building a Telegram App Similar to Hamster kombat and Natcoin ... Tapswap
 
 ![hameste clone](./hamster-kombat-clone.png)
 
