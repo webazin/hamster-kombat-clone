@@ -1,6 +1,6 @@
 # hamster-kombat-clone
 
-[Buy and download(https://telegramcode.com)]
+[Buy and download](https://telegramcode.com)
 
 # Building a Telegram App Similar to Hamster kombat and Natcoin ... Tapswap
 
